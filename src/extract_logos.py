@@ -1,87 +1,126 @@
 import os
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from PIL import Image
 from io import BytesIO
 import pandas as pd
-from load_data import load_dataset
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import re
+from src.load_data import load_dataset
 
+HEADERS = {'User-Agent': 'Mozilla/5.0'}
+OUTPUT_DIR = "logos"
+MAX_WORKERS = 30
+TIMEOUT = 8
 
-from load_data import load_dataset
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def extract_logo_url(html, base_url):
-    soup = BeautifulSoup(html, "html.parser")
+def download_image(url):
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        response.raise_for_status()  # Ensure the request was successful
+        return Image.open(BytesIO(response.content))
+    except Exception as e:
+        print(f"[✖] Error downloading image from {url}: {e}")
+        return None
+
+# Function to extract logo from standard <img> tags
+def extract_logo_url(soup, base_url):
     for img in soup.find_all("img"):
-        #For every <img src = "logo..", alt ="logo.."> I create a vector and look for the keyword "logo"
-        attrs = " ".join([str(img.get(attr, "")).lower() for attr in ["alt", "src", "class", "id"]]) #Combine all results into one string, e.g main logo /logo.png header-img
+        attrs = " ".join([str(img.get(attr, "")).lower() for attr in ["alt", "src", "class", "id"]])
         if "logo" in attrs:
-            return urljoin(base_url, img.get("src"))
+            src = img.get("src")
+            if src:
+                # Ensure src is joined properly with base_url
+                logo_url = urljoin(base_url, src)
+                return logo_url
     return None
 
-def save_logo(img_url, domain, output_dir="logos"):
-    #Check if the path is already in logos directory
-    path = os.path.join(output_dir, f"{domain.replace('.','_')}.png")
-    if os.path.exists(path):
-        print(f"[!] Logo for {domain} already exists. Skipping...")
-        return
-    try:
-        #Convert raw image to file-like object and save at path
-        response = requests.get(img_url, timeout=10)
-        image = Image.open(BytesIO(response.content))
-        image.save(path)
-        print(f"[✔] Saved logo for {domain}")
-    except Exception as e:
-        print(f"[✖] Failed to save logo for {domain}: {e}")
-
-def extract_favicon_url(html, base_url):
-    #Backup method, looking for favicons if we dont find any img "logo.."
-    soup = BeautifulSoup(html, "html.parser")
-    favicon_url = None
-
-    for link in soup.find_all("link", rel=["icon", "shortcut icon", "apple-touch-icon"]):
-            favicon_url = link.get("href")
-            if favicon_url:
-                break
-    if favicon_url:
-        return urljoin(base_url, favicon_url)
+def extract_background_logo_url(soup, base_url):
+    # Look for divs, spans, or any block-level element that may contain a background image
+    for tag in soup.find_all(["div", "span", "header", "section"]):
+        style = tag.get("style", "")
+        if "background-image" in style:
+            match = re.search(r'url\(["\']?(.*?)["\']?\)', style)
+            if match:
+                return urljoin(base_url, match.group(1))
     return None
-def save_favicon(favicon_url,domain,output_dir = "logos"):
-    path = os.path.join(output_dir, f"{domain.replace('.','_')}_favicon.png")
-    if os.path.exists(path):
-        print(f"[!] Logo for {domain} already exists. Skipping...")
+
+# Function to extract favicon from <link> tags
+def extract_favicon_url(soup, base_url):
+    for link in soup.find_all("link", rel=lambda x: x and 'icon' in x):
+        href = link.get("href")
+        if href:
+            return urljoin(base_url, href)
+    return urljoin(base_url, "/favicon.ico")
+
+# Function to save an image locally
+def save_image(image, filename):
+    try:
+        image.convert("RGB").save(filename)
+        print(f"[✔] Saved {filename}")
+    except Exception as e:
+        print(f"[✖] Could not save {filename}: {e}")
+
+# Main processing function to handle domains and logo extraction
+def process_domain(domain):
+    domain = domain.strip().lower()
+    filename = os.path.join(OUTPUT_DIR, f"{domain.replace('.', '_')}.png")
+
+    if os.path.exists(filename):
+        print(f"[!] Already exists: {domain}")
         return
 
     try:
-        response = requests.get(favicon_url, timeout=10)
-        image = Image.open(BytesIO(response.content))
-        path = os.path.join(output_dir, f"{domain.replace('.','_')}_favicon.png")
-        image.save(path)
-    except Exception as e:
-        print(f"[✖] Failed to save favicon for {domain}: {e}")
+        # Ensure URL is properly formed with http/https
+        parsed_url = urlparse(domain)
+        if not parsed_url.scheme:
+            base_url = f"http://{domain}"
+        else:
+            base_url = domain
 
-def extract_logos():
-    os.makedirs("logos", exist_ok=True)
+        response = requests.get(base_url, headers=HEADERS, timeout=TIMEOUT)
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Try extracting logo using standard <img> tags
+        logo_url = extract_logo_url(soup, base_url)
+        if logo_url:
+            img = download_image(logo_url)
+            if img:
+                save_image(img, filename)
+                return
+
+        # Try extracting background logo
+        background_logo_url = extract_background_logo_url(soup, base_url)
+        if background_logo_url:
+            img = download_image(background_logo_url)
+            if img:
+                save_image(img, filename)
+                return
+
+        # Fallback to favicon if no logo is found
+        favicon_url = extract_favicon_url(soup, base_url)
+        if favicon_url:
+            img = download_image(favicon_url)
+            if img:
+                save_image(img, filename)
+                return
+
+        print(f"[!] No logo found for {domain}")
+
+    except Exception as e:
+        print(f"[✖] Error processing {domain}: {e}")
+
+# Function to process domains in parallel
+def extract_logos_parallel():
     df = load_dataset()
-    #For every domain in our dataset
-    for domain in df["domain"]:
-        try:
-            #We load domain url and raw html
-            url = f"http://{domain}"
-            html = requests.get(url, timeout=10).text
-            logo_url = extract_logo_url(html, url)
-            if logo_url:
-                save_logo(logo_url, domain)
-            else:
-                favicon_url = extract_favicon_url(html, url)
-                if favicon_url:
-                    save_favicon(favicon_url, domain)
-                else:
-                    print(f"[!] No logo or favicon found for {domain}")
+    domains = df["domain"].dropna().unique()
 
-
-        except Exception as e:
-            print(f"[✖] Error fetching {domain}: {e}")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [executor.submit(process_domain, domain) for domain in domains]
+        for future in as_completed(futures):
+            future.result()  
 
 if __name__ == "__main__":
-    extract_logos()
+    extract_logos_parallel()

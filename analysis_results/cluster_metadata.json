@@ -1,0 +1,4236 @@
+{
+  "cluster_1": {
+    "size": 691,
+    "sample_files": [
+      "263_net_cn.png",
+      "zkteco_vn.png",
+      "zkteco_me.png"
+    ],
+    "average_similarity": 0.8904911280583434,
+    "min_similarity": 0.8006280064582825
+  },
+  "cluster_2": {
+    "size": 234,
+    "sample_files": [
+      "aamco-bellevue_com.png",
+      "aamcoyumaaz_com.png",
+      "aamcoypsilantimi_com.png"
+    ],
+    "average_similarity": 0.998814439778807,
+    "min_similarity": 0.9468732476234436
+  },
+  "cluster_3": {
+    "size": 1,
+    "sample_files": [
+      "abc-autoglas_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_4": {
+    "size": 1,
+    "sample_files": [
+      "accelltherapy_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_5": {
+    "size": 1,
+    "sample_files": [
+      "acetoolonline_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_6": {
+    "size": 46,
+    "sample_files": [
+      "actemium_at.png",
+      "zhcpa_cn.png",
+      "venturelightingme_com.png"
+    ],
+    "average_similarity": 0.8720013415755857,
+    "min_similarity": 0.8001471757888794
+  },
+  "cluster_7": {
+    "size": 53,
+    "sample_files": [
+      "actemium_ca.png",
+      "ymcatriangle_org.png",
+      "veolia_pt.png"
+    ],
+    "average_similarity": 0.857095610809949,
+    "min_similarity": 0.8001788854598999
+  },
+  "cluster_8": {
+    "size": 12,
+    "sample_files": [
+      "actemium_es.png",
+      "wedos_com.png",
+      "solatube_si.png"
+    ],
+    "average_similarity": 0.8719538377993035,
+    "min_similarity": 0.8071044683456421
+  },
+  "cluster_9": {
+    "size": 139,
+    "sample_files": [
+      "adeccogroupfoundationus_org.png",
+      "wwf_at.png",
+      "wuerth_com_hr.png"
+    ],
+    "average_similarity": 0.9031617673889413,
+    "min_similarity": 0.8004809617996216
+  },
+  "cluster_10": {
+    "size": 1,
+    "sample_files": [
+      "adlatus-nordwestschweiz_ch.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_11": {
+    "size": 20,
+    "sample_files": [
+      "adra_ca.png",
+      "viacon_no.png",
+      "viacon_fi.png"
+    ],
+    "average_similarity": 0.8491506284789035,
+    "min_similarity": 0.8026323914527893
+  },
+  "cluster_12": {
+    "size": 46,
+    "sample_files": [
+      "adra_fr.png",
+      "vantagepoint_co_id.png",
+      "toyotaploiesti_ro.png"
+    ],
+    "average_similarity": 0.8816019010428645,
+    "min_similarity": 0.8006613254547119
+  },
+  "cluster_13": {
+    "size": 21,
+    "sample_files": [
+      "adra_nl.png",
+      "wurth_com_do.png",
+      "worldvision_co.png"
+    ],
+    "average_similarity": 0.8553325837566739,
+    "min_similarity": 0.8002349138259888
+  },
+  "cluster_14": {
+    "size": 5,
+    "sample_files": [
+      "adra_org_pe.png",
+      "toofacedcosmetics_jp.png",
+      "solidea_co_za.png"
+    ],
+    "average_similarity": 0.830425363779068,
+    "min_similarity": 0.8014078140258789
+  },
+  "cluster_15": {
+    "size": 11,
+    "sample_files": [
+      "adra_pl.png",
+      "whatsonsaudiarabia_com.png",
+      "autosecuritaslemoule_fr.png"
+    ],
+    "average_similarity": 0.9252737597985701,
+    "min_similarity": 0.8008302450180054
+  },
+  "cluster_16": {
+    "size": 2,
+    "sample_files": [
+      "advantisengineering_com.png",
+      "avia-unimot_com_ua.png"
+    ],
+    "average_similarity": 0.805099606513977,
+    "min_similarity": 0.805099606513977
+  },
+  "cluster_17": {
+    "size": 11,
+    "sample_files": [
+      "aeccglobal_com_bd.png",
+      "globalconnect_dk.png",
+      "globalconnect_de.png"
+    ],
+    "average_similarity": 0.9035542661493475,
+    "min_similarity": 0.8065594434738159
+  },
+  "cluster_18": {
+    "size": 1,
+    "sample_files": [
+      "affidea_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_19": {
+    "size": 6,
+    "sample_files": [
+      "aiesecargentina_org.png",
+      "spie-osmo_de.png",
+      "shercomotorcycles_it.png"
+    ],
+    "average_similarity": 0.8387457092603048,
+    "min_similarity": 0.8056527376174927
+  },
+  "cluster_20": {
+    "size": 12,
+    "sample_files": [
+      "aiesecaustralia_org.png",
+      "rsm_lu.png",
+      "rsm_bh.png"
+    ],
+    "average_similarity": 0.8722243697354288,
+    "min_similarity": 0.8063237071037292
+  },
+  "cluster_21": {
+    "size": 2,
+    "sample_files": [
+      "aiesec_ba.png",
+      "aiesec_gr.png"
+    ],
+    "average_similarity": 1.0000001192092896,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_22": {
+    "size": 8,
+    "sample_files": [
+      "aiesec_cl.png",
+      "whisky_de.png",
+      "skoda-nancy_fr.png"
+    ],
+    "average_similarity": 0.8861509540251323,
+    "min_similarity": 0.8002163171768188
+  },
+  "cluster_23": {
+    "size": 1,
+    "sample_files": [
+      "aiesec_org_rs.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_24": {
+    "size": 29,
+    "sample_files": [
+      "airbnb_am.png",
+      "airbnb_si.png",
+      "airbnb_ru.png"
+    ],
+    "average_similarity": 1.0000001397626153,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_25": {
+    "size": 98,
+    "sample_files": [
+      "aireonepeel_ca.png",
+      "vettersculliganwater_com.png",
+      "tupperware_nl.png"
+    ],
+    "average_similarity": 0.946358681352119,
+    "min_similarity": 0.8009943962097168
+  },
+  "cluster_26": {
+    "size": 3,
+    "sample_files": [
+      "ajas_cz.png",
+      "spitex-kriens_ch.png",
+      "manpowergroup_pt.png"
+    ],
+    "average_similarity": 0.81749560435613,
+    "min_similarity": 0.8032552003860474
+  },
+  "cluster_27": {
+    "size": 1,
+    "sample_files": [
+      "albatroslogistic_ma.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_28": {
+    "size": 1,
+    "sample_files": [
+      "alchemia-nova_net.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_29": {
+    "size": 8,
+    "sample_files": [
+      "aleris-pp_dk.png",
+      "tbwa_it.png",
+      "tbwa_co_nz.png"
+    ],
+    "average_similarity": 0.8760382682085037,
+    "min_similarity": 0.8017080426216125
+  },
+  "cluster_30": {
+    "size": 36,
+    "sample_files": [
+      "algordanza_com_au.png",
+      "tridentseafoods_jp.png",
+      "toyota_com_mt.png"
+    ],
+    "average_similarity": 0.8957961045560383,
+    "min_similarity": 0.8003511428833008
+  },
+  "cluster_31": {
+    "size": 6,
+    "sample_files": [
+      "allianz-genc_de.png",
+      "sekulin-allianz_de.png",
+      "allianz-sebastiankoch_de.png"
+    ],
+    "average_similarity": 0.9999999125798543,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_32": {
+    "size": 10,
+    "sample_files": [
+      "allianzlifebali_com.png",
+      "titancontainers_us.png",
+      "titancontainers_ie.png"
+    ],
+    "average_similarity": 0.8848068184322782,
+    "min_similarity": 0.8032873868942261
+  },
+  "cluster_33": {
+    "size": 1,
+    "sample_files": [
+      "alosindustrials_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_34": {
+    "size": 16,
+    "sample_files": [
+      "altengt_com.png",
+      "wurth_co.png",
+      "pkf_pt.png"
+    ],
+    "average_similarity": 0.866210966805617,
+    "min_similarity": 0.8002303838729858
+  },
+  "cluster_35": {
+    "size": 2,
+    "sample_files": [
+      "altenusa_com.png",
+      "cvjm-dettingen_de.png"
+    ],
+    "average_similarity": 0.8129415512084961,
+    "min_similarity": 0.8129415512084961
+  },
+  "cluster_36": {
+    "size": 25,
+    "sample_files": [
+      "alten_ca.png",
+      "vamdodoma_ru.png",
+      "servier_nl.png"
+    ],
+    "average_similarity": 0.8946036946773529,
+    "min_similarity": 0.802046537399292
+  },
+  "cluster_37": {
+    "size": 1,
+    "sample_files": [
+      "altriusconsulting_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_38": {
+    "size": 7,
+    "sample_files": [
+      "amnestyghana_org.png",
+      "amnesty_org_ng.png",
+      "amnesty_lu.png"
+    ],
+    "average_similarity": 0.9641807732127962,
+    "min_similarity": 0.9267688393592834
+  },
+  "cluster_39": {
+    "size": 2,
+    "sample_files": [
+      "amnesty_is.png",
+      "amnesty_se.png"
+    ],
+    "average_similarity": 0.875032901763916,
+    "min_similarity": 0.875032901763916
+  },
+  "cluster_40": {
+    "size": 2,
+    "sample_files": [
+      "amphenolaudio_com.png",
+      "ophitusa_com.png"
+    ],
+    "average_similarity": 0.8132092952728271,
+    "min_similarity": 0.8132092952728271
+  },
+  "cluster_41": {
+    "size": 2,
+    "sample_files": [
+      "amtrakvacations_com_au.png",
+      "decathlon_com_kh.png"
+    ],
+    "average_similarity": 0.8023577928543091,
+    "min_similarity": 0.8023577928543091
+  },
+  "cluster_42": {
+    "size": 8,
+    "sample_files": [
+      "amway_at.png",
+      "toyotahonduras_com.png",
+      "kiaonline_dk.png"
+    ],
+    "average_similarity": 0.8804860200200763,
+    "min_similarity": 0.8030422329902649
+  },
+  "cluster_43": {
+    "size": 41,
+    "sample_files": [
+      "anadolumedicalcenter_al.png",
+      "nexi_hr.png",
+      "nexi_gr.png"
+    ],
+    "average_similarity": 0.9114251768443643,
+    "min_similarity": 0.8005302548408508
+  },
+  "cluster_44": {
+    "size": 6,
+    "sample_files": [
+      "analytik-jena_fr.png",
+      "yonyou_com_hk.png",
+      "trijit_uk.png"
+    ],
+    "average_similarity": 0.8378174344698588,
+    "min_similarity": 0.8057161569595337
+  },
+  "cluster_45": {
+    "size": 4,
+    "sample_files": [
+      "anderson-negele-gmbh_ru.png",
+      "sofrecogroup_com.png",
+      "rsmpoland_pl.png"
+    ],
+    "average_similarity": 0.8172044157981873,
+    "min_similarity": 0.8022336959838867
+  },
+  "cluster_46": {
+    "size": 1,
+    "sample_files": [
+      "andre-media_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_47": {
+    "size": 6,
+    "sample_files": [
+      "aonhewitt_com_cy.png",
+      "scholpp_it.png",
+      "aon_hu.png"
+    ],
+    "average_similarity": 0.9025482098261516,
+    "min_similarity": 0.803013801574707
+  },
+  "cluster_48": {
+    "size": 4,
+    "sample_files": [
+      "aon_lt.png",
+      "avon_co_mu.png",
+      "avon_com_sa.png"
+    ],
+    "average_similarity": 0.8905870119730631,
+    "min_similarity": 0.8352868556976318
+  },
+  "cluster_49": {
+    "size": 1,
+    "sample_files": [
+      "apexdynamicsgermany_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_50": {
+    "size": 1,
+    "sample_files": [
+      "applebees_com_gt.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_51": {
+    "size": 10,
+    "sample_files": [
+      "aquatherm-belux_be.png",
+      "worldvision_org_sv.png",
+      "worldvision_org_nz.png"
+    ],
+    "average_similarity": 0.8424992667304145,
+    "min_similarity": 0.8039600253105164
+  },
+  "cluster_52": {
+    "size": 6,
+    "sample_files": [
+      "ardex-france_fr.png",
+      "ardex_pl.png",
+      "ardex_eu.png"
+    ],
+    "average_similarity": 0.9494719743728638,
+    "min_similarity": 0.8689019680023193
+  },
+  "cluster_53": {
+    "size": 1,
+    "sample_files": [
+      "ardex_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_54": {
+    "size": 1,
+    "sample_files": [
+      "ardex_com_tw.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_55": {
+    "size": 2,
+    "sample_files": [
+      "arkaybeverages_com.png",
+      "planncosteels_com.png"
+    ],
+    "average_similarity": 0.8149309754371643,
+    "min_similarity": 0.8149309754371643
+  },
+  "cluster_56": {
+    "size": 1,
+    "sample_files": [
+      "aspenpharma_es.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_57": {
+    "size": 1,
+    "sample_files": [
+      "astreitalia_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_58": {
+    "size": 2,
+    "sample_files": [
+      "atalian_be.png",
+      "mcdonalds_md.png"
+    ],
+    "average_similarity": 0.8375922441482544,
+    "min_similarity": 0.8375922441482544
+  },
+  "cluster_59": {
+    "size": 1,
+    "sample_files": [
+      "atalian_com_tr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_60": {
+    "size": 1,
+    "sample_files": [
+      "atalian_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_61": {
+    "size": 1,
+    "sample_files": [
+      "atalian_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_62": {
+    "size": 1,
+    "sample_files": [
+      "attijariwafabank_com_eg.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_63": {
+    "size": 3,
+    "sample_files": [
+      "avia-belgomine_be.png",
+      "tanameracoffee_com.png",
+      "canonburgos_com.png"
+    ],
+    "average_similarity": 0.8762320478757223,
+    "min_similarity": 0.8091602921485901
+  },
+  "cluster_64": {
+    "size": 6,
+    "sample_files": [
+      "avia-ramonville_fr.png",
+      "servier_cz.png",
+      "avis_nc.png"
+    ],
+    "average_similarity": 0.8846974809964497,
+    "min_similarity": 0.8187649846076965
+  },
+  "cluster_65": {
+    "size": 9,
+    "sample_files": [
+      "avia_ch.png",
+      "axa_ma.png",
+      "axa_be.png"
+    ],
+    "average_similarity": 0.8980434470706515,
+    "min_similarity": 0.8042697906494141
+  },
+  "cluster_66": {
+    "size": 1,
+    "sample_files": [
+      "axa_dz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_67": {
+    "size": 7,
+    "sample_files": [
+      "bakertilly_ba.png",
+      "bakertilly_mt.png",
+      "bakertilly_lk.png"
+    ],
+    "average_similarity": 0.9552588633128575,
+    "min_similarity": 0.9046545624732971
+  },
+  "cluster_68": {
+    "size": 6,
+    "sample_files": [
+      "bakertilly_ke_favicon.png",
+      "skodalondon_com.png",
+      "peugeot_sk.png"
+    ],
+    "average_similarity": 0.8327849189440409,
+    "min_similarity": 0.8025134801864624
+  },
+  "cluster_69": {
+    "size": 1,
+    "sample_files": [
+      "bakertilly_pk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_70": {
+    "size": 2,
+    "sample_files": [
+      "batistareisfloresonline_com_br.png",
+      "krofian_de.png"
+    ],
+    "average_similarity": 0.8249714374542236,
+    "min_similarity": 0.8249714374542236
+  },
+  "cluster_71": {
+    "size": 7,
+    "sample_files": [
+      "bauder_ag.png",
+      "bauer-egypt_com.png",
+      "bauder_rs.png"
+    ],
+    "average_similarity": 0.9463437795639038,
+    "min_similarity": 0.8122035264968872
+  },
+  "cluster_72": {
+    "size": 1,
+    "sample_files": [
+      "bauermedia_no.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_73": {
+    "size": 1,
+    "sample_files": [
+      "bauwerk-group_hr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_74": {
+    "size": 37,
+    "sample_files": [
+      "bbraun-vetcare_nl.png",
+      "thebodyshop_bg.png",
+      "hollandandbarrett_ae.png"
+    ],
+    "average_similarity": 0.9820449613594078,
+    "min_similarity": 0.8202353715896606
+  },
+  "cluster_75": {
+    "size": 7,
+    "sample_files": [
+      "bbraun_be.png",
+      "hertz_com_ge.png",
+      "hertz_am.png"
+    ],
+    "average_similarity": 0.8296096835817609,
+    "min_similarity": 0.8006478548049927
+  },
+  "cluster_76": {
+    "size": 1,
+    "sample_files": [
+      "bbraun_ru.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_77": {
+    "size": 3,
+    "sample_files": [
+      "bcurelaser_co_il.png",
+      "kierpensions_co_uk.png",
+      "kia_com_ni.png"
+    ],
+    "average_similarity": 0.8486328522364298,
+    "min_similarity": 0.8089783191680908
+  },
+  "cluster_78": {
+    "size": 1,
+    "sample_files": [
+      "bees-sport_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_79": {
+    "size": 1,
+    "sample_files": [
+      "benu_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_80": {
+    "size": 1,
+    "sample_files": [
+      "berlitz-augsburg_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_81": {
+    "size": 4,
+    "sample_files": [
+      "berlitz-bahrain_com.png",
+      "berlitzph_com.png",
+      "berlitzmanchester_com.png"
+    ],
+    "average_similarity": 0.9407966832319895,
+    "min_similarity": 0.905695378780365
+  },
+  "cluster_82": {
+    "size": 1,
+    "sample_files": [
+      "berlitz_com_py.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_83": {
+    "size": 3,
+    "sample_files": [
+      "besins-healthcare_com_mx.png",
+      "besins-healthcare_se.png",
+      "besins-healthcare_nl.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_84": {
+    "size": 1,
+    "sample_files": [
+      "bestdrive_fi.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_85": {
+    "size": 2,
+    "sample_files": [
+      "bestdrive_pl.png",
+      "bestdrive_se.png"
+    ],
+    "average_similarity": 0.9892932176589966,
+    "min_similarity": 0.9892932176589966
+  },
+  "cluster_86": {
+    "size": 1,
+    "sample_files": [
+      "bestrucksofmn_net.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_87": {
+    "size": 1,
+    "sample_files": [
+      "bestwesternbraddock_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_88": {
+    "size": 1,
+    "sample_files": [
+      "bigfootdigital_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_89": {
+    "size": 1,
+    "sample_files": [
+      "bimedaus_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_90": {
+    "size": 1,
+    "sample_files": [
+      "bioderma-sk_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_91": {
+    "size": 2,
+    "sample_files": [
+      "bioderma_pl.png",
+      "kapanfastigheter_se.png"
+    ],
+    "average_similarity": 0.8186185956001282,
+    "min_similarity": 0.8186185956001282
+  },
+  "cluster_92": {
+    "size": 6,
+    "sample_files": [
+      "bonprix-fl_be.png",
+      "miniso_com_ec.png",
+      "louisdepoorterestore_com.png"
+    ],
+    "average_similarity": 0.8958523472150167,
+    "min_similarity": 0.8089002966880798
+  },
+  "cluster_93": {
+    "size": 1,
+    "sample_files": [
+      "bonprix_fi.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_94": {
+    "size": 1,
+    "sample_files": [
+      "bosch-industry-consulting_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_95": {
+    "size": 2,
+    "sample_files": [
+      "bosch-pt_com_au.png",
+      "boschtools_com.png"
+    ],
+    "average_similarity": 1.0,
+    "min_similarity": 1.0
+  },
+  "cluster_96": {
+    "size": 3,
+    "sample_files": [
+      "bosch-pt_com_cn.png",
+      "bosch-pt_co_in.png",
+      "bosch-pt_com_my.png"
+    ],
+    "average_similarity": 0.999999463558197,
+    "min_similarity": 0.999999463558197
+  },
+  "cluster_97": {
+    "size": 2,
+    "sample_files": [
+      "bowlero_mx.png",
+      "engie_de.png"
+    ],
+    "average_similarity": 0.8036642670631409,
+    "min_similarity": 0.8036642670631409
+  },
+  "cluster_98": {
+    "size": 5,
+    "sample_files": [
+      "boxful_com_tw.png",
+      "sprachschule-aktiv-basel_ch.png",
+      "monitus_com.png"
+    ],
+    "average_similarity": 0.8747112333774567,
+    "min_similarity": 0.8293643593788147
+  },
+  "cluster_99": {
+    "size": 1,
+    "sample_files": [
+      "brother_co_il.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_100": {
+    "size": 2,
+    "sample_files": [
+      "buffalotours_es.png",
+      "kalorimeta-singen_de.png"
+    ],
+    "average_similarity": 0.8338332176208496,
+    "min_similarity": 0.8338332176208496
+  },
+  "cluster_101": {
+    "size": 3,
+    "sample_files": [
+      "carglass_dk.png",
+      "rjelinek_cl.png",
+      "linexcoloradosprings_com.png"
+    ],
+    "average_similarity": 0.8284475604693095,
+    "min_similarity": 0.8094466328620911
+  },
+  "cluster_102": {
+    "size": 3,
+    "sample_files": [
+      "carglass_ee.png",
+      "trinkgutlippstadt_de.png",
+      "carglass_hu.png"
+    ],
+    "average_similarity": 0.864767849445343,
+    "min_similarity": 0.8060362339019775
+  },
+  "cluster_103": {
+    "size": 2,
+    "sample_files": [
+      "carglass_ma.png",
+      "carglass_re.png"
+    ],
+    "average_similarity": 0.9214751720428467,
+    "min_similarity": 0.9214751720428467
+  },
+  "cluster_104": {
+    "size": 1,
+    "sample_files": [
+      "carglass_si.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_105": {
+    "size": 5,
+    "sample_files": [
+      "carlsjr-russia_ru.png",
+      "hydroscand_co_ua.png",
+      "fordmediacenter_nl.png"
+    ],
+    "average_similarity": 0.8665162563323975,
+    "min_similarity": 0.8035901784896851
+  },
+  "cluster_106": {
+    "size": 2,
+    "sample_files": [
+      "carlsjr_co_nz.png",
+      "harigmfg_com.png"
+    ],
+    "average_similarity": 0.8214876055717468,
+    "min_similarity": 0.8214876055717468
+  },
+  "cluster_107": {
+    "size": 3,
+    "sample_files": [
+      "carlsjr_fr.png",
+      "pkfthailand_asia.png",
+      "jdm_com_pe.png"
+    ],
+    "average_similarity": 0.8607578277587891,
+    "min_similarity": 0.8245394825935364
+  },
+  "cluster_108": {
+    "size": 1,
+    "sample_files": [
+      "carter-benson_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_109": {
+    "size": 1,
+    "sample_files": [
+      "casaaurorasupermercados_com_br.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_110": {
+    "size": 3,
+    "sample_files": [
+      "caspak_co_nz.png",
+      "mercyships_se.png",
+      "mercyships_dk.png"
+    ],
+    "average_similarity": 0.8627444307009379,
+    "min_similarity": 0.8117241859436035
+  },
+  "cluster_111": {
+    "size": 9,
+    "sample_files": [
+      "ccusa_ca.png",
+      "ccusa_sk.png",
+      "ccusa_nl.png"
+    ],
+    "average_similarity": 0.9999997715155283,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_112": {
+    "size": 11,
+    "sample_files": [
+      "cdlbarreiras_com_br.png",
+      "trulynolenrecife_com_br.png",
+      "trulynolenpiaui_com_br.png"
+    ],
+    "average_similarity": 0.9999997702511874,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_113": {
+    "size": 2,
+    "sample_files": [
+      "cdlcampina_org_br.png",
+      "eccreditcontrol_com_au.png"
+    ],
+    "average_similarity": 0.8089261651039124,
+    "min_similarity": 0.8089261651039124
+  },
+  "cluster_114": {
+    "size": 5,
+    "sample_files": [
+      "cdlcuritiba_org_br.png",
+      "cdltresrios_com_br.png",
+      "cdlniteroi_com_br.png"
+    ],
+    "average_similarity": 0.8612955868244171,
+    "min_similarity": 0.8386847972869873
+  },
+  "cluster_115": {
+    "size": 2,
+    "sample_files": [
+      "cdvielectronics_com.png",
+      "cdviplastics_com.png"
+    ],
+    "average_similarity": 1.0,
+    "min_similarity": 1.0
+  },
+  "cluster_116": {
+    "size": 1,
+    "sample_files": [
+      "cedstone_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_117": {
+    "size": 8,
+    "sample_files": [
+      "cfmotobenelux_eu.png",
+      "tgmresearch_vn.png",
+      "techmatrix-asia_com.png"
+    ],
+    "average_similarity": 0.8807190720524106,
+    "min_similarity": 0.804133415222168
+  },
+  "cluster_118": {
+    "size": 7,
+    "sample_files": [
+      "chauffeurstelefoon_nl.png",
+      "toyota-rambouillet_fr.png",
+      "toyota-evreux_fr.png"
+    ],
+    "average_similarity": 0.8607420665877206,
+    "min_similarity": 0.8075361251831055
+  },
+  "cluster_119": {
+    "size": 2,
+    "sample_files": [
+      "chicco_com_ua.png",
+      "chicco_fr.png"
+    ],
+    "average_similarity": 0.9688133001327515,
+    "min_similarity": 0.9688133001327515
+  },
+  "cluster_120": {
+    "size": 1,
+    "sample_files": [
+      "childrenandteendentalfl_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_121": {
+    "size": 1,
+    "sample_files": [
+      "chip_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_122": {
+    "size": 3,
+    "sample_files": [
+      "cinnabon-egypt_com.png",
+      "panpuri_fr.png",
+      "cinnabon_com_tr.png"
+    ],
+    "average_similarity": 0.8768842816352844,
+    "min_similarity": 0.8159469962120056
+  },
+  "cluster_123": {
+    "size": 4,
+    "sample_files": [
+      "cinnabon-ksa_com.png",
+      "cinnabon_pk.png",
+      "cinnabon_co_za.png"
+    ],
+    "average_similarity": 0.9839408695697784,
+    "min_similarity": 0.9791346788406372
+  },
+  "cluster_124": {
+    "size": 2,
+    "sample_files": [
+      "cinnabon_ca.png",
+      "julis-bremen_de.png"
+    ],
+    "average_similarity": 0.8103040456771851,
+    "min_similarity": 0.8103040456771851
+  },
+  "cluster_125": {
+    "size": 1,
+    "sample_files": [
+      "cinnabon_mx.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_126": {
+    "size": 1,
+    "sample_files": [
+      "clarksonhyde_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_127": {
+    "size": 1,
+    "sample_files": [
+      "clearblueionizer_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_128": {
+    "size": 1,
+    "sample_files": [
+      "coffeesmith_com_sg.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_129": {
+    "size": 5,
+    "sample_files": [
+      "colorflexpackaging_com.png",
+      "sprachcaffe-muenchen_com.png",
+      "overheaddoorkalamazoo_com.png"
+    ],
+    "average_similarity": 0.8624326646327972,
+    "min_similarity": 0.8011377453804016
+  },
+  "cluster_130": {
+    "size": 5,
+    "sample_files": [
+      "compo-group_com.png",
+      "compo_pl.png",
+      "compo_es.png"
+    ],
+    "average_similarity": 0.9924967408180236,
+    "min_similarity": 0.9812419414520264
+  },
+  "cluster_131": {
+    "size": 2,
+    "sample_files": [
+      "countryroadsford_net.png",
+      "faacentrancesolutions_be.png"
+    ],
+    "average_similarity": 0.8187704682350159,
+    "min_similarity": 0.8187704682350159
+  },
+  "cluster_132": {
+    "size": 3,
+    "sample_files": [
+      "cpi-print_com.png",
+      "vispiron_systems.png",
+      "enterprise_si.png"
+    ],
+    "average_similarity": 0.8118080298105875,
+    "min_similarity": 0.8033181428909302
+  },
+  "cluster_133": {
+    "size": 1,
+    "sample_files": [
+      "crocssa_co_za.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_134": {
+    "size": 2,
+    "sample_files": [
+      "crocs_com_pe.png",
+      "julis-stuttgart_de.png"
+    ],
+    "average_similarity": 0.8032975196838379,
+    "min_similarity": 0.8032975196838379
+  },
+  "cluster_135": {
+    "size": 52,
+    "sample_files": [
+      "crocs_co_nz.png",
+      "spitex_sg.png",
+      "spitexzug_ch.png"
+    ],
+    "average_similarity": 0.9935781089518764,
+    "min_similarity": 0.8330281376838684
+  },
+  "cluster_136": {
+    "size": 1,
+    "sample_files": [
+      "crocs_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_137": {
+    "size": 5,
+    "sample_files": [
+      "culligandenkerwaterconditioning_com.png",
+      "culliganwatercorrections_com.png",
+      "culliganuppercumberland_com.png"
+    ],
+    "average_similarity": 0.9029125094413757,
+    "min_similarity": 0.8337528109550476
+  },
+  "cluster_138": {
+    "size": 2,
+    "sample_files": [
+      "customneon_com_au.png",
+      "ebay_co_kr.png"
+    ],
+    "average_similarity": 0.822210967540741,
+    "min_similarity": 0.822210967540741
+  },
+  "cluster_139": {
+    "size": 5,
+    "sample_files": [
+      "cvjm-augsburg_de.png",
+      "cvjm-pfalz_de.png",
+      "cvjm-nuembrecht_de.png"
+    ],
+    "average_similarity": 0.9373834669589997,
+    "min_similarity": 0.8855953216552734
+  },
+  "cluster_140": {
+    "size": 2,
+    "sample_files": [
+      "cvjm-gomaringen_de.png",
+      "ymcasf_org.png"
+    ],
+    "average_similarity": 0.8105014562606812,
+    "min_similarity": 0.8105014562606812
+  },
+  "cluster_141": {
+    "size": 2,
+    "sample_files": [
+      "cyclecarriage_com.png",
+      "sixty8_ro.png"
+    ],
+    "average_similarity": 0.8035374879837036,
+    "min_similarity": 0.8035374879837036
+  },
+  "cluster_142": {
+    "size": 1,
+    "sample_files": [
+      "dahmira_kz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_143": {
+    "size": 1,
+    "sample_files": [
+      "dairyqueenobx_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_144": {
+    "size": 1,
+    "sample_files": [
+      "davesmithfordonline_net.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_145": {
+    "size": 5,
+    "sample_files": [
+      "de-heus_nl.png",
+      "deheus_rs.png",
+      "deheus_pt.png"
+    ],
+    "average_similarity": 1.0000001192092896,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_146": {
+    "size": 3,
+    "sample_files": [
+      "decathlonkz_com.png",
+      "sitech_fi.png",
+      "icafalinmobiliaria_cl.png"
+    ],
+    "average_similarity": 0.8216033379236857,
+    "min_similarity": 0.8109894394874573
+  },
+  "cluster_147": {
+    "size": 1,
+    "sample_files": [
+      "deheus_id.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_148": {
+    "size": 2,
+    "sample_files": [
+      "demetercs_eu.png",
+      "demeter_it.png"
+    ],
+    "average_similarity": 0.8916082382202148,
+    "min_similarity": 0.8916082382202148
+  },
+  "cluster_149": {
+    "size": 3,
+    "sample_files": [
+      "demeterschmid_de.png",
+      "demeter_ch.png",
+      "demeter_at.png"
+    ],
+    "average_similarity": 0.9662913680076599,
+    "min_similarity": 0.954657793045044
+  },
+  "cluster_150": {
+    "size": 1,
+    "sample_files": [
+      "dennert_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_151": {
+    "size": 3,
+    "sample_files": [
+      "designpluz_com.png",
+      "kuraray_us_com.png",
+      "kiaspringfield_co_za.png"
+    ],
+    "average_similarity": 0.834854523340861,
+    "min_similarity": 0.8194544911384583
+  },
+  "cluster_152": {
+    "size": 3,
+    "sample_files": [
+      "desjoyauxgh_com.png",
+      "desjoyaux_de.png",
+      "desjoyaux_com_cn.png"
+    ],
+    "average_similarity": 0.9000292420387268,
+    "min_similarity": 0.8636232614517212
+  },
+  "cluster_153": {
+    "size": 1,
+    "sample_files": [
+      "despat_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_154": {
+    "size": 1,
+    "sample_files": [
+      "deswam_in.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_155": {
+    "size": 1,
+    "sample_files": [
+      "dhirajsonsonline_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_156": {
+    "size": 1,
+    "sample_files": [
+      "diamond_co_id.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_157": {
+    "size": 2,
+    "sample_files": [
+      "dicetek_us.png",
+      "sitech_ch.png"
+    ],
+    "average_similarity": 0.8171145915985107,
+    "min_similarity": 0.8171145915985107
+  },
+  "cluster_158": {
+    "size": 1,
+    "sample_files": [
+      "dilmahtea_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_159": {
+    "size": 1,
+    "sample_files": [
+      "domcortraffic_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_160": {
+    "size": 1,
+    "sample_files": [
+      "dopplerumbrellas_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_161": {
+    "size": 1,
+    "sample_files": [
+      "drekopf-kanalservice_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_162": {
+    "size": 1,
+    "sample_files": [
+      "dulux_co_zw.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_163": {
+    "size": 1,
+    "sample_files": [
+      "durableonline_com_sg.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_164": {
+    "size": 2,
+    "sample_files": [
+      "duracell-me_com.png",
+      "immanuelalbertinen_de.png"
+    ],
+    "average_similarity": 0.8425595164299011,
+    "min_similarity": 0.8425595164299011
+  },
+  "cluster_165": {
+    "size": 8,
+    "sample_files": [
+      "duracleancarpet_com.png",
+      "sprachschule-aktiv_de.png",
+      "sprachschule-aktiv-passau_de.png"
+    ],
+    "average_similarity": 0.8552695150886264,
+    "min_similarity": 0.8004932403564453
+  },
+  "cluster_166": {
+    "size": 4,
+    "sample_files": [
+      "duracleanmaine_com.png",
+      "duraclean_us.png",
+      "duraclean_net.png"
+    ],
+    "average_similarity": 0.9913685023784637,
+    "min_similarity": 0.9827368855476379
+  },
+  "cluster_167": {
+    "size": 1,
+    "sample_files": [
+      "dysartsservicecenter_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_168": {
+    "size": 3,
+    "sample_files": [
+      "ebay_com_hk.png",
+      "nobleprog_mx.png",
+      "nobleprog_com_ar.png"
+    ],
+    "average_similarity": 0.8881082137425741,
+    "min_similarity": 0.8321623802185059
+  },
+  "cluster_169": {
+    "size": 1,
+    "sample_files": [
+      "ecotec-usa_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_170": {
+    "size": 4,
+    "sample_files": [
+      "ecslupsk_pl.png",
+      "spitex-flawil-degersheim_ch.png",
+      "intersport_nl.png"
+    ],
+    "average_similarity": 0.8906037012736002,
+    "min_similarity": 0.8279465436935425
+  },
+  "cluster_171": {
+    "size": 2,
+    "sample_files": [
+      "edenredrewards_co_in.png",
+      "remax-go_com_ar.png"
+    ],
+    "average_similarity": 0.8295544981956482,
+    "min_similarity": 0.8295544981956482
+  },
+  "cluster_172": {
+    "size": 1,
+    "sample_files": [
+      "edenred_cl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_173": {
+    "size": 1,
+    "sample_files": [
+      "edenred_fi.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_174": {
+    "size": 1,
+    "sample_files": [
+      "educab_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_175": {
+    "size": 1,
+    "sample_files": [
+      "eftech-international_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_176": {
+    "size": 1,
+    "sample_files": [
+      "elderhouseadc_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_177": {
+    "size": 1,
+    "sample_files": [
+      "enefitvolt_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_178": {
+    "size": 1,
+    "sample_files": [
+      "engenmauritius_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_179": {
+    "size": 1,
+    "sample_files": [
+      "engie-africa_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_180": {
+    "size": 1,
+    "sample_files": [
+      "engieindia_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_181": {
+    "size": 2,
+    "sample_files": [
+      "engie_nl.png",
+      "engie_pt.png"
+    ],
+    "average_similarity": 0.9033523201942444,
+    "min_similarity": 0.9033523201942444
+  },
+  "cluster_182": {
+    "size": 3,
+    "sample_files": [
+      "enterprise_com_ar.png",
+      "storisell_com.png",
+      "servier_com_br.png"
+    ],
+    "average_similarity": 0.8182067076365153,
+    "min_similarity": 0.8064196705818176
+  },
+  "cluster_183": {
+    "size": 6,
+    "sample_files": [
+      "equansservices_com.png",
+      "equans_lu.png",
+      "equans_hu.png"
+    ],
+    "average_similarity": 0.9944487611452738,
+    "min_similarity": 0.9833455681800842
+  },
+  "cluster_184": {
+    "size": 2,
+    "sample_files": [
+      "eurofins_at.png",
+      "eurofins_hr.png"
+    ],
+    "average_similarity": 1.0000001192092896,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_185": {
+    "size": 2,
+    "sample_files": [
+      "euromaster_cz.png",
+      "promat_ch.png"
+    ],
+    "average_similarity": 0.8331437706947327,
+    "min_similarity": 0.8331437706947327
+  },
+  "cluster_186": {
+    "size": 5,
+    "sample_files": [
+      "europa-union-bremen_de.png",
+      "europa-union-thueringen_de.png",
+      "europa-union-sachsen-anhalt_de.png"
+    ],
+    "average_similarity": 1.0000001192092896,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_187": {
+    "size": 5,
+    "sample_files": [
+      "europa-union-diepholz_de.png",
+      "matutis_de.png",
+      "europa-union-sachsen_de.png"
+    ],
+    "average_similarity": 0.9246698141098022,
+    "min_similarity": 0.8116747140884399
+  },
+  "cluster_188": {
+    "size": 2,
+    "sample_files": [
+      "europcar_me.png",
+      "europcar_rs.png"
+    ],
+    "average_similarity": 1.0,
+    "min_similarity": 1.0
+  },
+  "cluster_189": {
+    "size": 2,
+    "sample_files": [
+      "experianidworks_com.png",
+      "soneparthailand_com.png"
+    ],
+    "average_similarity": 0.8236613273620605,
+    "min_similarity": 0.8236613273620605
+  },
+  "cluster_190": {
+    "size": 5,
+    "sample_files": [
+      "experian_com_hk.png",
+      "experian_in.png",
+      "experian_co_nz.png"
+    ],
+    "average_similarity": 1.0000003576278687,
+    "min_similarity": 1.0000003576278687
+  },
+  "cluster_191": {
+    "size": 2,
+    "sample_files": [
+      "fainvestors_com.png",
+      "svncredit_ro.png"
+    ],
+    "average_similarity": 0.8010189533233643,
+    "min_similarity": 0.8010189533233643
+  },
+  "cluster_192": {
+    "size": 7,
+    "sample_files": [
+      "fimacf_africa.png",
+      "subaru_mt.png",
+      "subaru_com_pa.png"
+    ],
+    "average_similarity": 0.943609669094994,
+    "min_similarity": 0.8026341199874878
+  },
+  "cluster_193": {
+    "size": 2,
+    "sample_files": [
+      "fitness4homesuperstore_com.png",
+      "gs1mt_org.png"
+    ],
+    "average_similarity": 0.8034037947654724,
+    "min_similarity": 0.8034037947654724
+  },
+  "cluster_194": {
+    "size": 9,
+    "sample_files": [
+      "flashbay_ca.png",
+      "flashbay_pt.png",
+      "flashbay_no.png"
+    ],
+    "average_similarity": 0.9045223908291923,
+    "min_similarity": 0.8437929153442383
+  },
+  "cluster_195": {
+    "size": 1,
+    "sample_files": [
+      "flashmed-lb_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_196": {
+    "size": 1,
+    "sample_files": [
+      "fleishmanhillard_ph.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_197": {
+    "size": 1,
+    "sample_files": [
+      "flesan_com_pe.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_198": {
+    "size": 4,
+    "sample_files": [
+      "fmc-mexico_com.png",
+      "freseniuskidneycare_ph.png",
+      "freseniuskidneycare_au.png"
+    ],
+    "average_similarity": 0.922128289937973,
+    "min_similarity": 0.844256579875946
+  },
+  "cluster_199": {
+    "size": 6,
+    "sample_files": [
+      "fmlogistic_com_br.png",
+      "fmlogistic_sk.png",
+      "fmlogistic_it.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_200": {
+    "size": 6,
+    "sample_files": [
+      "fortprousa_com.png",
+      "repsol_us.png",
+      "repsol_pe.png"
+    ],
+    "average_similarity": 0.9385108153025309,
+    "min_similarity": 0.8155322074890137
+  },
+  "cluster_201": {
+    "size": 1,
+    "sample_files": [
+      "fosterfarmsfoodservice_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_202": {
+    "size": 4,
+    "sample_files": [
+      "foxinaboxbrisbane_com.png",
+      "foxinaboxmiami_com.png",
+      "foxinaboxgraz_at.png"
+    ],
+    "average_similarity": 0.8289635380109152,
+    "min_similarity": 0.80207359790802
+  },
+  "cluster_203": {
+    "size": 2,
+    "sample_files": [
+      "foxinaboxzutphen_com.png",
+      "foxinabox_mx.png"
+    ],
+    "average_similarity": 0.8486427068710327,
+    "min_similarity": 0.8486427068710327
+  },
+  "cluster_204": {
+    "size": 9,
+    "sample_files": [
+      "freeportwestselfstorage_com.png",
+      "intersport-risoul_com.png",
+      "intersport-lesrousses_com.png"
+    ],
+    "average_similarity": 0.9557937582333883,
+    "min_similarity": 0.8010729551315308
+  },
+  "cluster_205": {
+    "size": 2,
+    "sample_files": [
+      "future-x_at.png",
+      "nutricia_pt.png"
+    ],
+    "average_similarity": 0.8012888431549072,
+    "min_similarity": 0.8012888431549072
+  },
+  "cluster_206": {
+    "size": 1,
+    "sample_files": [
+      "genan_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_207": {
+    "size": 1,
+    "sample_files": [
+      "getscsadmin_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_208": {
+    "size": 6,
+    "sample_files": [
+      "giacomini_cz.png",
+      "santander_pt.png",
+      "santander_de.png"
+    ],
+    "average_similarity": 0.9182066877683004,
+    "min_similarity": 0.8092331886291504
+  },
+  "cluster_209": {
+    "size": 1,
+    "sample_files": [
+      "glintinc_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_210": {
+    "size": 1,
+    "sample_files": [
+      "gloriasportsarena_com_tr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_211": {
+    "size": 3,
+    "sample_files": [
+      "goliathgames_com.png",
+      "goliathgames_es.png",
+      "goliathgames_de.png"
+    ],
+    "average_similarity": 0.9651120901107788,
+    "min_similarity": 0.947668194770813
+  },
+  "cluster_212": {
+    "size": 1,
+    "sample_files": [
+      "gracehomes_us.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_213": {
+    "size": 1,
+    "sample_files": [
+      "grantthornton_com_ve.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_214": {
+    "size": 1,
+    "sample_files": [
+      "grantthornton_co_im.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_215": {
+    "size": 5,
+    "sample_files": [
+      "greatplacetowork_at.png",
+      "pearsonclinical_fr.png",
+      "pearsonclinical_es.png"
+    ],
+    "average_similarity": 0.9131663322448731,
+    "min_similarity": 0.8552772998809814
+  },
+  "cluster_216": {
+    "size": 26,
+    "sample_files": [
+      "greatplacetowork_be.png",
+      "greatplacetowork_se.png",
+      "greatplacetowork_pt.png"
+    ],
+    "average_similarity": 0.9529832790448115,
+    "min_similarity": 0.8637769222259521
+  },
+  "cluster_217": {
+    "size": 1,
+    "sample_files": [
+      "grupointexa_co.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_218": {
+    "size": 10,
+    "sample_files": [
+      "gs1al_org.png",
+      "gs1_ro.png",
+      "gs1_org_bo.png"
+    ],
+    "average_similarity": 0.8925547414355808,
+    "min_similarity": 0.8246420621871948
+  },
+  "cluster_219": {
+    "size": 3,
+    "sample_files": [
+      "gs1bg_org.png",
+      "gulfoil_co_uk.png",
+      "gulfoilchina_com.png"
+    ],
+    "average_similarity": 0.8826104402542114,
+    "min_similarity": 0.8253779411315918
+  },
+  "cluster_220": {
+    "size": 1,
+    "sample_files": [
+      "gs1lt_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_221": {
+    "size": 7,
+    "sample_files": [
+      "gulf-japan_com.png",
+      "gulf_no.png",
+      "gulf_lu.png"
+    ],
+    "average_similarity": 0.9690364287013099,
+    "min_similarity": 0.9407656192779541
+  },
+  "cluster_222": {
+    "size": 1,
+    "sample_files": [
+      "gwaliasweets_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_223": {
+    "size": 5,
+    "sample_files": [
+      "habitatbroward_org.png",
+      "habitatstl_org.png",
+      "habitatns_ca.png"
+    ],
+    "average_similarity": 0.8569198369979858,
+    "min_similarity": 0.8111429214477539
+  },
+  "cluster_224": {
+    "size": 1,
+    "sample_files": [
+      "habitativ_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_225": {
+    "size": 1,
+    "sample_files": [
+      "habitatmichigan_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_226": {
+    "size": 1,
+    "sample_files": [
+      "habitatvietnam_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_227": {
+    "size": 1,
+    "sample_files": [
+      "hannainst_hr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_228": {
+    "size": 1,
+    "sample_files": [
+      "hawaiifamilydentalcareers_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_229": {
+    "size": 1,
+    "sample_files": [
+      "heliosstrategia_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_230": {
+    "size": 1,
+    "sample_files": [
+      "hendersonkyedc_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_231": {
+    "size": 1,
+    "sample_files": [
+      "hennessyfunds_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_232": {
+    "size": 1,
+    "sample_files": [
+      "heydudeshoes_es.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_233": {
+    "size": 1,
+    "sample_files": [
+      "hometowninsurance_us.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_234": {
+    "size": 3,
+    "sample_files": [
+      "honda_com_bd.png",
+      "toyotaalbay_com_ph.png",
+      "sans-sans_com_my.png"
+    ],
+    "average_similarity": 0.8161404728889465,
+    "min_similarity": 0.8036689162254333
+  },
+  "cluster_235": {
+    "size": 1,
+    "sample_files": [
+      "howdenoze_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_236": {
+    "size": 1,
+    "sample_files": [
+      "hps-guns_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_237": {
+    "size": 1,
+    "sample_files": [
+      "hsusports_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_238": {
+    "size": 1,
+    "sample_files": [
+      "hyundaitgv_ro.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_239": {
+    "size": 1,
+    "sample_files": [
+      "iba-protontherapy_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_240": {
+    "size": 7,
+    "sample_files": [
+      "ibc-solar_co_za.png",
+      "ibc-solar_pl.png",
+      "ibc-solar_nl.png"
+    ],
+    "average_similarity": 0.9996291739600045,
+    "min_similarity": 0.9987021088600159
+  },
+  "cluster_241": {
+    "size": 1,
+    "sample_files": [
+      "idealindustries_cn.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_242": {
+    "size": 9,
+    "sample_files": [
+      "ikea_com_do.png",
+      "ikea_pr.png",
+      "ikea_is.png"
+    ],
+    "average_similarity": 0.9170151485337151,
+    "min_similarity": 0.8408627510070801
+  },
+  "cluster_243": {
+    "size": 1,
+    "sample_files": [
+      "ilmercatoambacht_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_244": {
+    "size": 1,
+    "sample_files": [
+      "immunospot_eu.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_245": {
+    "size": 1,
+    "sample_files": [
+      "implantcenter-dentistry_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_246": {
+    "size": 1,
+    "sample_files": [
+      "inbeat_co.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_247": {
+    "size": 1,
+    "sample_files": [
+      "indiancancersocietybangalore_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_248": {
+    "size": 1,
+    "sample_files": [
+      "indianmotorcycle_com_ar.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_249": {
+    "size": 2,
+    "sample_files": [
+      "inductothermhw_com.png",
+      "inductotherm_ca.png"
+    ],
+    "average_similarity": 1.000000238418579,
+    "min_similarity": 1.000000238418579
+  },
+  "cluster_250": {
+    "size": 1,
+    "sample_files": [
+      "inhuntworld_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_251": {
+    "size": 1,
+    "sample_files": [
+      "internationalsos_co_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_252": {
+    "size": 2,
+    "sample_files": [
+      "intersport-martinique-guadeloupe_fr.png",
+      "toysrus_com_ph.png"
+    ],
+    "average_similarity": 0.8422234058380127,
+    "min_similarity": 0.8422234058380127
+  },
+  "cluster_253": {
+    "size": 1,
+    "sample_files": [
+      "intersport_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_254": {
+    "size": 1,
+    "sample_files": [
+      "intertongn_es.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_255": {
+    "size": 1,
+    "sample_files": [
+      "isic_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_256": {
+    "size": 2,
+    "sample_files": [
+      "isic_fr.png",
+      "isic_it.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_257": {
+    "size": 1,
+    "sample_files": [
+      "islprgac_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_258": {
+    "size": 7,
+    "sample_files": [
+      "isover_be.png",
+      "isover_se.png",
+      "isover_hu.png"
+    ],
+    "average_similarity": 0.9700695418176197,
+    "min_similarity": 0.9407392740249634
+  },
+  "cluster_259": {
+    "size": 2,
+    "sample_files": [
+      "isuzuniaga_com.png",
+      "overheaddoorsrichmond_com.png"
+    ],
+    "average_similarity": 0.8030385971069336,
+    "min_similarity": 0.8030385971069336
+  },
+  "cluster_260": {
+    "size": 1,
+    "sample_files": [
+      "isuzu_co_mz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_261": {
+    "size": 1,
+    "sample_files": [
+      "jdimmigration_es.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_262": {
+    "size": 2,
+    "sample_files": [
+      "jetfriorefrigeracao_com_br.png",
+      "platingsystems_info.png"
+    ],
+    "average_similarity": 0.8320592641830444,
+    "min_similarity": 0.8320592641830444
+  },
+  "cluster_263": {
+    "size": 1,
+    "sample_files": [
+      "job-impulse_co_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_264": {
+    "size": 3,
+    "sample_files": [
+      "jollibee_com_bn.png",
+      "santillana_com_ec.png",
+      "santillana_com_ar.png"
+    ],
+    "average_similarity": 0.8714811205863953,
+    "min_similarity": 0.8065370321273804
+  },
+  "cluster_265": {
+    "size": 7,
+    "sample_files": [
+      "julis-bayern_de.png",
+      "julis-sh_de.png",
+      "julis-sachsenanhalt_de.png"
+    ],
+    "average_similarity": 0.9553977109137035,
+    "min_similarity": 0.8594710826873779
+  },
+  "cluster_266": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_cn.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_267": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_co.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_268": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_269": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_com_br.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_270": {
+    "size": 2,
+    "sample_files": [
+      "jungheinrich_com_my.png",
+      "jungheinrich_com_sg.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_271": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_co_nz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_272": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_co_th.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_273": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_co_za.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_274": {
+    "size": 1,
+    "sample_files": [
+      "jungheinrich_in.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_275": {
+    "size": 1,
+    "sample_files": [
+      "katyawilliamsbridal_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_276": {
+    "size": 4,
+    "sample_files": [
+      "kawasaki-center-koeln_de.png",
+      "kawasaki-seufert_de.png",
+      "kawasaki-magdeburg_de.png"
+    ],
+    "average_similarity": 0.9999999403953552,
+    "min_similarity": 0.9999999403953552
+  },
+  "cluster_277": {
+    "size": 2,
+    "sample_files": [
+      "keasyfit_it.png",
+      "top-system_com_mk.png"
+    ],
+    "average_similarity": 0.858026385307312,
+    "min_similarity": 0.858026385307312
+  },
+  "cluster_278": {
+    "size": 1,
+    "sample_files": [
+      "keika-c_ed_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_279": {
+    "size": 1,
+    "sample_files": [
+      "kern-liebers_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_280": {
+    "size": 1,
+    "sample_files": [
+      "keytitlegroupsa_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_281": {
+    "size": 3,
+    "sample_files": [
+      "kia-asc_ru.png",
+      "kia-crimea_ru.png",
+      "kia-autoprodix_ru.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_282": {
+    "size": 4,
+    "sample_files": [
+      "kia-chita_ru.png",
+      "kia_com_co.png",
+      "kiacadca_sk.png"
+    ],
+    "average_similarity": 0.8713791370391846,
+    "min_similarity": 0.8243488073348999
+  },
+  "cluster_283": {
+    "size": 1,
+    "sample_files": [
+      "kiairaqnim_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_284": {
+    "size": 2,
+    "sample_files": [
+      "kiamotors_com_co.png",
+      "renault_jo.png"
+    ],
+    "average_similarity": 0.8413914442062378,
+    "min_similarity": 0.8413914442062378
+  },
+  "cluster_285": {
+    "size": 2,
+    "sample_files": [
+      "kilewswest_com.png",
+      "toyotadolak_cz.png"
+    ],
+    "average_similarity": 0.8047653436660767,
+    "min_similarity": 0.8047653436660767
+  },
+  "cluster_286": {
+    "size": 1,
+    "sample_files": [
+      "kind-der-stadt_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_287": {
+    "size": 1,
+    "sample_files": [
+      "komoder_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_288": {
+    "size": 1,
+    "sample_files": [
+      "lamborghini-zh_ch.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_289": {
+    "size": 1,
+    "sample_files": [
+      "lamborghinisarasota_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_290": {
+    "size": 1,
+    "sample_files": [
+      "landermitsubishi_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_291": {
+    "size": 1,
+    "sample_files": [
+      "landi_swiss.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_292": {
+    "size": 1,
+    "sample_files": [
+      "lcvesta_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_293": {
+    "size": 1,
+    "sample_files": [
+      "le-tech_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_294": {
+    "size": 1,
+    "sample_files": [
+      "lidl-voyages_fr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_295": {
+    "size": 3,
+    "sample_files": [
+      "lightspeedhq_fr.png",
+      "vendhq_com.png",
+      "lightspeedhq_mx.png"
+    ],
+    "average_similarity": 1.0000000596046448,
+    "min_similarity": 0.9999999403953552
+  },
+  "cluster_296": {
+    "size": 12,
+    "sample_files": [
+      "linde-amt_com.png",
+      "linde_pe.png",
+      "linde_bo.png"
+    ],
+    "average_similarity": 0.9558628978151263,
+    "min_similarity": 0.8459615707397461
+  },
+  "cluster_297": {
+    "size": 12,
+    "sample_files": [
+      "lindt_at.png",
+      "lindt_se.png",
+      "lindt_jp.png"
+    ],
+    "average_similarity": 0.9579815223361506,
+    "min_similarity": 0.8100661039352417
+  },
+  "cluster_298": {
+    "size": 9,
+    "sample_files": [
+      "linexaus_com_au.png",
+      "linexswfl_com.png",
+      "linexps_com.png"
+    ],
+    "average_similarity": 0.9708008120457331,
+    "min_similarity": 0.9174216389656067
+  },
+  "cluster_299": {
+    "size": 1,
+    "sample_files": [
+      "logicvapes_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_300": {
+    "size": 1,
+    "sample_files": [
+      "lueck-gruppe_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_301": {
+    "size": 1,
+    "sample_files": [
+      "luminishealthcareers_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_302": {
+    "size": 1,
+    "sample_files": [
+      "luxaflexproject-scandinavia_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_303": {
+    "size": 1,
+    "sample_files": [
+      "lvs-oxford_org_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_304": {
+    "size": 1,
+    "sample_files": [
+      "mantruckmerchandise_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_305": {
+    "size": 1,
+    "sample_files": [
+      "mariagefreres_co_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_306": {
+    "size": 1,
+    "sample_files": [
+      "martinavenueshops_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_307": {
+    "size": 1,
+    "sample_files": [
+      "maxus-norddeutschland_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_308": {
+    "size": 31,
+    "sample_files": [
+      "mazda-angola-autozuid_com.png",
+      "mazda_ua.png",
+      "mazda_ph.png"
+    ],
+    "average_similarity": 0.9448833695022009,
+    "min_similarity": 0.8157230615615845
+  },
+  "cluster_309": {
+    "size": 109,
+    "sample_files": [
+      "mazda-autocentrum-engin-holzminden_de.png",
+      "toyota_bo.png",
+      "toyotaquezonavenue_com_ph.png"
+    ],
+    "average_similarity": 0.9913922427383524,
+    "min_similarity": 0.8228896856307983
+  },
+  "cluster_310": {
+    "size": 1,
+    "sample_files": [
+      "mcdonalds-hh_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_311": {
+    "size": 3,
+    "sample_files": [
+      "mcvitiesindia_com.png",
+      "orange_sn.png",
+      "nikonimgsupport_com.png"
+    ],
+    "average_similarity": 0.8222499887148539,
+    "min_similarity": 0.801146924495697
+  },
+  "cluster_312": {
+    "size": 29,
+    "sample_files": [
+      "medef-44_fr.png",
+      "medefloire_fr.png",
+      "medef79_fr.png"
+    ],
+    "average_similarity": 1.000000146222232,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_313": {
+    "size": 3,
+    "sample_files": [
+      "mediqdirekt_de.png",
+      "siebtechnik-tema_co_uk.png",
+      "siebtechnik-tema_com_au.png"
+    ],
+    "average_similarity": 0.8810336589813232,
+    "min_similarity": 0.8215504288673401
+  },
+  "cluster_314": {
+    "size": 1,
+    "sample_files": [
+      "mediqdirekt_hu.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_315": {
+    "size": 1,
+    "sample_files": [
+      "meggle-bakery_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_316": {
+    "size": 1,
+    "sample_files": [
+      "meggle-cheese_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_317": {
+    "size": 1,
+    "sample_files": [
+      "meggle-group_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_318": {
+    "size": 1,
+    "sample_files": [
+      "meggle_co_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_319": {
+    "size": 2,
+    "sample_files": [
+      "meggle_de.png",
+      "meggle_it.png"
+    ],
+    "average_similarity": 0.9999997615814209,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_320": {
+    "size": 1,
+    "sample_files": [
+      "menschenfuermenschen_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_321": {
+    "size": 1,
+    "sample_files": [
+      "mercanta_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_322": {
+    "size": 1,
+    "sample_files": [
+      "mercyships_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_323": {
+    "size": 1,
+    "sample_files": [
+      "mercyships_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_324": {
+    "size": 1,
+    "sample_files": [
+      "meyersound_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_325": {
+    "size": 1,
+    "sample_files": [
+      "mffshopen_se.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_326": {
+    "size": 1,
+    "sample_files": [
+      "microbit_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_327": {
+    "size": 6,
+    "sample_files": [
+      "miniso-au_com.png",
+      "miniso_nc.png",
+      "minisouruguay_com_uy.png"
+    ],
+    "average_similarity": 0.9199326117833455,
+    "min_similarity": 0.8627678751945496
+  },
+  "cluster_328": {
+    "size": 1,
+    "sample_files": [
+      "miniso_ge.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_329": {
+    "size": 8,
+    "sample_files": [
+      "mitsubishi-motors_at.png",
+      "mitsubishielectric_cz.png",
+      "mitsubishi-motors_qa.png"
+    ],
+    "average_similarity": 0.9501976817846298,
+    "min_similarity": 0.8007907271385193
+  },
+  "cluster_330": {
+    "size": 2,
+    "sample_files": [
+      "mitsubishielectric-printing_com.png",
+      "mitsubishielectric_se.png"
+    ],
+    "average_similarity": 1.0000001192092896,
+    "min_similarity": 1.0000001192092896
+  },
+  "cluster_331": {
+    "size": 1,
+    "sample_files": [
+      "mitsubishielectric_in.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_332": {
+    "size": 1,
+    "sample_files": [
+      "mondialparebrise_re.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_333": {
+    "size": 5,
+    "sample_files": [
+      "monster_at.png",
+      "monster_se.png",
+      "monster_ie.png"
+    ],
+    "average_similarity": 0.9999997615814209,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_334": {
+    "size": 1,
+    "sample_files": [
+      "moorestoke_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_335": {
+    "size": 1,
+    "sample_files": [
+      "movingstarsinc_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_336": {
+    "size": 8,
+    "sample_files": [
+      "msd-animal-health_be.png",
+      "msd-animal-health_pt.png",
+      "msd-animal-health_pl.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_337": {
+    "size": 2,
+    "sample_files": [
+      "mtn_cg.png",
+      "mtn_ci.png"
+    ],
+    "average_similarity": 0.9518972635269165,
+    "min_similarity": 0.9518972635269165
+  },
+  "cluster_338": {
+    "size": 1,
+    "sample_files": [
+      "mtn_com_af.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_339": {
+    "size": 1,
+    "sample_files": [
+      "mtn_co_sz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_340": {
+    "size": 20,
+    "sample_files": [
+      "murrelektronik_at.png",
+      "murrelektronik_uk.png",
+      "murrelektronik_sk.png"
+    ],
+    "average_similarity": 1.0000002233605636,
+    "min_similarity": 1.0
+  },
+  "cluster_341": {
+    "size": 1,
+    "sample_files": [
+      "muvpropiedades_com_ar.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_342": {
+    "size": 1,
+    "sample_files": [
+      "myplumberca_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_343": {
+    "size": 2,
+    "sample_files": [
+      "myron_ca.png",
+      "neposystem_me.png"
+    ],
+    "average_similarity": 0.8002117276191711,
+    "min_similarity": 0.8002117276191711
+  },
+  "cluster_344": {
+    "size": 1,
+    "sample_files": [
+      "naturesrewardcoloredcauliflower_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_345": {
+    "size": 1,
+    "sample_files": [
+      "nepaltrust_gov_np.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_346": {
+    "size": 1,
+    "sample_files": [
+      "nerdsonsite_co_za.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_347": {
+    "size": 30,
+    "sample_files": [
+      "nestle-caribbean_com.png",
+      "nestle_ua.png",
+      "nestle_si.png"
+    ],
+    "average_similarity": 0.9999998146090014,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_348": {
+    "size": 2,
+    "sample_files": [
+      "nestle_com_ve.png",
+      "nestle_do.png"
+    ],
+    "average_similarity": 1.000000238418579,
+    "min_similarity": 1.000000238418579
+  },
+  "cluster_349": {
+    "size": 1,
+    "sample_files": [
+      "nextbikeczech_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_350": {
+    "size": 1,
+    "sample_files": [
+      "nhszketpo_hu.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_351": {
+    "size": 6,
+    "sample_files": [
+      "nikon-mea_com.png",
+      "nikon_co_th.png",
+      "nikon_com_sg.png"
+    ],
+    "average_similarity": 0.9886528531710307,
+    "min_similarity": 0.9774787425994873
+  },
+  "cluster_352": {
+    "size": 1,
+    "sample_files": [
+      "nissanmanufacturing_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_353": {
+    "size": 1,
+    "sample_files": [
+      "nissantireadvantage_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_354": {
+    "size": 2,
+    "sample_files": [
+      "nobleprog_ae.png",
+      "nobleprog_com_eg.png"
+    ],
+    "average_similarity": 1.000000238418579,
+    "min_similarity": 1.000000238418579
+  },
+  "cluster_355": {
+    "size": 4,
+    "sample_files": [
+      "nobleprog_com_ng.png",
+      "nobleprog_ro.png",
+      "nobleprog_es.png"
+    ],
+    "average_similarity": 0.9999999403953552,
+    "min_similarity": 0.9999999403953552
+  },
+  "cluster_356": {
+    "size": 1,
+    "sample_files": [
+      "noiseassessments_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_357": {
+    "size": 9,
+    "sample_files": [
+      "nordicpharma_be.png",
+      "nordicpharma_pt.png",
+      "nordicpharma_nl.png"
+    ],
+    "average_similarity": 0.9925299617979262,
+    "min_similarity": 0.9663835763931274
+  },
+  "cluster_358": {
+    "size": 1,
+    "sample_files": [
+      "novonordisk_my.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_359": {
+    "size": 1,
+    "sample_files": [
+      "oil-testing_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_360": {
+    "size": 1,
+    "sample_files": [
+      "orange_md.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_361": {
+    "size": 1,
+    "sample_files": [
+      "orbico_com_mk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_362": {
+    "size": 1,
+    "sample_files": [
+      "orient-food_sk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_363": {
+    "size": 6,
+    "sample_files": [
+      "ovb_at.png",
+      "remax-pinneberg_de.png",
+      "remax-lueneburg_de.png"
+    ],
+    "average_similarity": 0.8890884717305502,
+    "min_similarity": 0.8150172233581543
+  },
+  "cluster_364": {
+    "size": 2,
+    "sample_files": [
+      "overheaddoormankato_com.png",
+      "pearson_com_cn.png"
+    ],
+    "average_similarity": 0.8080044984817505,
+    "min_similarity": 0.8080044984817505
+  },
+  "cluster_365": {
+    "size": 2,
+    "sample_files": [
+      "overheaddoorofterrehaute_com.png",
+      "overheaddoorriverton_com.png"
+    ],
+    "average_similarity": 0.9260146617889404,
+    "min_similarity": 0.9260146617889404
+  },
+  "cluster_366": {
+    "size": 1,
+    "sample_files": [
+      "pacificinfotech_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_367": {
+    "size": 1,
+    "sample_files": [
+      "pakuacanada_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_368": {
+    "size": 1,
+    "sample_files": [
+      "paybase_netlify_app.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_369": {
+    "size": 2,
+    "sample_files": [
+      "peach_immo.png",
+      "premiumproperties_com.png"
+    ],
+    "average_similarity": 0.8060144186019897,
+    "min_similarity": 0.8060144186019897
+  },
+  "cluster_370": {
+    "size": 4,
+    "sample_files": [
+      "pearsonclinical_ca.png",
+      "vetpartners_fr.png",
+      "pearsonschoolsandfecolleges_co_uk.png"
+    ],
+    "average_similarity": 0.9084662795066833,
+    "min_similarity": 0.8169324398040771
+  },
+  "cluster_371": {
+    "size": 1,
+    "sample_files": [
+      "pepsico_ru.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_372": {
+    "size": 1,
+    "sample_files": [
+      "petercem-sensors_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_373": {
+    "size": 1,
+    "sample_files": [
+      "pigtailsandcrewcutsfranchise_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_374": {
+    "size": 5,
+    "sample_files": [
+      "pilotpen_co_uk.png",
+      "pilotpen_ro.png",
+      "pilotpen_it.png"
+    ],
+    "average_similarity": 0.9999997615814209,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_375": {
+    "size": 7,
+    "sample_files": [
+      "pingusenglish_ac_th.png",
+      "pingusenglish_vn.png",
+      "pingusenglish_ps.png"
+    ],
+    "average_similarity": 0.948793351650238,
+    "min_similarity": 0.8451873064041138
+  },
+  "cluster_376": {
+    "size": 1,
+    "sample_files": [
+      "pingusenglish_co_id.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_377": {
+    "size": 6,
+    "sample_files": [
+      "pirtek_at.png",
+      "pirtek_se.png",
+      "pirtek_nl.png"
+    ],
+    "average_similarity": 1.000000238418579,
+    "min_similarity": 1.000000238418579
+  },
+  "cluster_378": {
+    "size": 3,
+    "sample_files": [
+      "pkfcabrera_com.png",
+      "workcircle_com.png",
+      "pkfkerikeri_co_nz.png"
+    ],
+    "average_similarity": 0.8652413487434387,
+    "min_similarity": 0.8167377710342407
+  },
+  "cluster_379": {
+    "size": 1,
+    "sample_files": [
+      "pkf_sk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_380": {
+    "size": 4,
+    "sample_files": [
+      "plameco-baer_de.png",
+      "plameco-rheinsieg_de.png",
+      "plameco-hannover_de.png"
+    ],
+    "average_similarity": 0.9686352213223776,
+    "min_similarity": 0.9403947591781616
+  },
+  "cluster_381": {
+    "size": 1,
+    "sample_files": [
+      "plastoplan_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_382": {
+    "size": 1,
+    "sample_files": [
+      "pmsgen_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_383": {
+    "size": 7,
+    "sample_files": [
+      "pragroup_at.png",
+      "pragroup_se.png",
+      "pragroup_pl.png"
+    ],
+    "average_similarity": 0.9981878484998431,
+    "min_similarity": 0.9936586618423462
+  },
+  "cluster_384": {
+    "size": 1,
+    "sample_files": [
+      "prioritymanagementscotland_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_385": {
+    "size": 1,
+    "sample_files": [
+      "ptsv-hof-minigolf_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_386": {
+    "size": 1,
+    "sample_files": [
+      "pussyspace_net.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_387": {
+    "size": 1,
+    "sample_files": [
+      "rcchurch_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_388": {
+    "size": 1,
+    "sample_files": [
+      "regalsprings_com_mx.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_389": {
+    "size": 2,
+    "sample_files": [
+      "remax-emblema_com_ar.png",
+      "remax_fi.png"
+    ],
+    "average_similarity": 0.9596303701400757,
+    "min_similarity": 0.9596303701400757
+  },
+  "cluster_390": {
+    "size": 1,
+    "sample_files": [
+      "remaxcrystal_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_391": {
+    "size": 1,
+    "sample_files": [
+      "renaultzaragoza_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_392": {
+    "size": 1,
+    "sample_files": [
+      "renault_no.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_393": {
+    "size": 1,
+    "sample_files": [
+      "repsolsolgas_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_394": {
+    "size": 1,
+    "sample_files": [
+      "repsol_in_ua.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_395": {
+    "size": 1,
+    "sample_files": [
+      "rexel_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_396": {
+    "size": 4,
+    "sample_files": [
+      "rotary5960_org.png",
+      "rotary_no.png",
+      "rotarypublicschool_org.png"
+    ],
+    "average_similarity": 0.8963977297147115,
+    "min_similarity": 0.8548500537872314
+  },
+  "cluster_397": {
+    "size": 1,
+    "sample_files": [
+      "rotary6450_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_398": {
+    "size": 1,
+    "sample_files": [
+      "rotaryclubofessex_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_399": {
+    "size": 1,
+    "sample_files": [
+      "rubiomonocoat_com_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_400": {
+    "size": 1,
+    "sample_files": [
+      "rutscherlebnis_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_401": {
+    "size": 4,
+    "sample_files": [
+      "salvationarmyconcordca_org.png",
+      "salvationarmy_org_uk.png",
+      "salvationarmy_org_sg.png"
+    ],
+    "average_similarity": 0.9403678178787231,
+    "min_similarity": 0.8942456245422363
+  },
+  "cluster_402": {
+    "size": 1,
+    "sample_files": [
+      "salvationarmyflorida_org.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_403": {
+    "size": 1,
+    "sample_files": [
+      "salvationarmy_org_my.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_404": {
+    "size": 1,
+    "sample_files": [
+      "savethechildren_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_405": {
+    "size": 1,
+    "sample_files": [
+      "scoutaerialafrica_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_406": {
+    "size": 1,
+    "sample_files": [
+      "scte-prod_herokuapp_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_407": {
+    "size": 1,
+    "sample_files": [
+      "seasonsrehab_in.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_408": {
+    "size": 1,
+    "sample_files": [
+      "seats2meetstationdenbosch_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_409": {
+    "size": 1,
+    "sample_files": [
+      "securitas24_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_410": {
+    "size": 3,
+    "sample_files": [
+      "seitenbachershop_com.png",
+      "subway_com_my.png",
+      "subwaypacific_com.png"
+    ],
+    "average_similarity": 0.8755765557289124,
+    "min_similarity": 0.817237377166748
+  },
+  "cluster_411": {
+    "size": 1,
+    "sample_files": [
+      "servier_pl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_412": {
+    "size": 1,
+    "sample_files": [
+      "shahshalalfood_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_413": {
+    "size": 1,
+    "sample_files": [
+      "shelterstation_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_414": {
+    "size": 1,
+    "sample_files": [
+      "sherwin-williams_com_ec.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_415": {
+    "size": 1,
+    "sample_files": [
+      "shopee_in.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_416": {
+    "size": 3,
+    "sample_files": [
+      "siebtechnik-tema_cn.png",
+      "techtel_com_sg.png",
+      "siebtechnik-tema_nl.png"
+    ],
+    "average_similarity": 0.8863516648610433,
+    "min_similarity": 0.8295275568962097
+  },
+  "cluster_417": {
+    "size": 1,
+    "sample_files": [
+      "sitechdo_com_mx.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_418": {
+    "size": 1,
+    "sample_files": [
+      "sitechsolutions_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_419": {
+    "size": 2,
+    "sample_files": [
+      "skssweden_se.png",
+      "skybusiness_co_nz.png"
+    ],
+    "average_similarity": 0.8726706504821777,
+    "min_similarity": 0.8726706504821777
+  },
+  "cluster_420": {
+    "size": 1,
+    "sample_files": [
+      "smittysmb_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_421": {
+    "size": 1,
+    "sample_files": [
+      "snapologyfranchising_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_422": {
+    "size": 1,
+    "sample_files": [
+      "sourceadvisors_co_uk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_423": {
+    "size": 1,
+    "sample_files": [
+      "specialistnutrition_us.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_424": {
+    "size": 1,
+    "sample_files": [
+      "spitex-buchs_ch.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_425": {
+    "size": 2,
+    "sample_files": [
+      "stampinup_ca.png",
+      "stampinup_uk.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_426": {
+    "size": 1,
+    "sample_files": [
+      "stanbicbank_co_zm.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_427": {
+    "size": 2,
+    "sample_files": [
+      "starbucks_co_nz.png",
+      "starbucks_in.png"
+    ],
+    "average_similarity": 0.9649579524993896,
+    "min_similarity": 0.9649579524993896
+  },
+  "cluster_428": {
+    "size": 3,
+    "sample_files": [
+      "starkeypro_com.png",
+      "starkeypro_de.png",
+      "starkeypro_com_au.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_429": {
+    "size": 1,
+    "sample_files": [
+      "starkey_co_kr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_430": {
+    "size": 8,
+    "sample_files": [
+      "statkraftvarme_no.png",
+      "statkraft_nl.png",
+      "statkraft_ie.png"
+    ],
+    "average_similarity": 0.9999997615814209,
+    "min_similarity": 0.9999997615814209
+  },
+  "cluster_431": {
+    "size": 9,
+    "sample_files": [
+      "sto-sea_com.png",
+      "sto_hu.png",
+      "sto_hr.png"
+    ],
+    "average_similarity": 1.0000004768371582,
+    "min_similarity": 1.0000004768371582
+  },
+  "cluster_432": {
+    "size": 1,
+    "sample_files": [
+      "stockco_co_nz.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_433": {
+    "size": 1,
+    "sample_files": [
+      "stora-drain_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_434": {
+    "size": 2,
+    "sample_files": [
+      "strabag-pfs_com.png",
+      "zkteco_com_eg.png"
+    ],
+    "average_similarity": 0.8549986481666565,
+    "min_similarity": 0.8549986481666565
+  },
+  "cluster_435": {
+    "size": 7,
+    "sample_files": [
+      "subarutijuana_mx.png",
+      "subaru_nc.png",
+      "subaru_lu.png"
+    ],
+    "average_similarity": 0.93548241683415,
+    "min_similarity": 0.8793766498565674
+  },
+  "cluster_436": {
+    "size": 1,
+    "sample_files": [
+      "subaru_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_437": {
+    "size": 1,
+    "sample_files": [
+      "subway-franchise_fr.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_438": {
+    "size": 1,
+    "sample_files": [
+      "subwayburbank_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_439": {
+    "size": 1,
+    "sample_files": [
+      "sunnybrookprintshop_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_440": {
+    "size": 2,
+    "sample_files": [
+      "svnchicagopm_com.png",
+      "svnvanguardla_com.png"
+    ],
+    "average_similarity": 0.8150759935379028,
+    "min_similarity": 0.8150759935379028
+  },
+  "cluster_441": {
+    "size": 1,
+    "sample_files": [
+      "svnefird_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_442": {
+    "size": 1,
+    "sample_files": [
+      "svntrinity_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_443": {
+    "size": 5,
+    "sample_files": [
+      "synergiejobs_at.png",
+      "synergie_pt.png",
+      "synergie_es.png"
+    ],
+    "average_similarity": 0.9306345582008362,
+    "min_similarity": 0.8460622429847717
+  },
+  "cluster_444": {
+    "size": 1,
+    "sample_files": [
+      "takab_nu.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_445": {
+    "size": 1,
+    "sample_files": [
+      "takeda_com_ru.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_446": {
+    "size": 1,
+    "sample_files": [
+      "taylorfarmsdeli_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_447": {
+    "size": 1,
+    "sample_files": [
+      "teztour_lt.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_448": {
+    "size": 5,
+    "sample_files": [
+      "thebodyshop_ee.png",
+      "thebodyshop_si.png",
+      "thebodyshop_lv.png"
+    ],
+    "average_similarity": 1.0,
+    "min_similarity": 1.0
+  },
+  "cluster_449": {
+    "size": 1,
+    "sample_files": [
+      "thelab_id.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_450": {
+    "size": 1,
+    "sample_files": [
+      "thisissowgood_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_451": {
+    "size": 1,
+    "sample_files": [
+      "toolstationjobs_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_452": {
+    "size": 1,
+    "sample_files": [
+      "top1toysbleijenberg_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_453": {
+    "size": 1,
+    "sample_files": [
+      "toyota-bornholm_dk.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_454": {
+    "size": 2,
+    "sample_files": [
+      "toyota-indus_com.png",
+      "toyotacommonwealth_com.png"
+    ],
+    "average_similarity": 0.8272190093994141,
+    "min_similarity": 0.8272190093994141
+  },
+  "cluster_455": {
+    "size": 3,
+    "sample_files": [
+      "toyota_com_kh.png",
+      "toyota_com_np.png",
+      "toyota_com_la.png"
+    ],
+    "average_similarity": 0.9999998807907104,
+    "min_similarity": 0.9999998807907104
+  },
+  "cluster_456": {
+    "size": 1,
+    "sample_files": [
+      "toysrus_com_sa.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_457": {
+    "size": 2,
+    "sample_files": [
+      "toysrus_de.png",
+      "toysrus_fr.png"
+    ],
+    "average_similarity": 1.000000238418579,
+    "min_similarity": 1.000000238418579
+  },
+  "cluster_458": {
+    "size": 1,
+    "sample_files": [
+      "tracybookshop_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_459": {
+    "size": 1,
+    "sample_files": [
+      "trulynolennatal_com_br.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_460": {
+    "size": 1,
+    "sample_files": [
+      "tts-group_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_461": {
+    "size": 1,
+    "sample_files": [
+      "ubicast_tv.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_462": {
+    "size": 1,
+    "sample_files": [
+      "unglobalcompact_ca.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_463": {
+    "size": 1,
+    "sample_files": [
+      "unitecnica-us_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_464": {
+    "size": 4,
+    "sample_files": [
+      "vbhtrgovina_si.png",
+      "vbh_ro.png",
+      "vbh_hr.png"
+    ],
+    "average_similarity": 0.9999995231628418,
+    "min_similarity": 0.9999995231628418
+  },
+  "cluster_465": {
+    "size": 1,
+    "sample_files": [
+      "vbh_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_466": {
+    "size": 1,
+    "sample_files": [
+      "vbh_com_es.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_467": {
+    "size": 1,
+    "sample_files": [
+      "vbh_hu.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_468": {
+    "size": 3,
+    "sample_files": [
+      "veka_bg.png",
+      "veka_hu.png",
+      "veka_com_sg.png"
+    ],
+    "average_similarity": 0.904605487982432,
+    "min_similarity": 0.8521945476531982
+  },
+  "cluster_469": {
+    "size": 1,
+    "sample_files": [
+      "venaenergy_co_jp.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_470": {
+    "size": 1,
+    "sample_files": [
+      "viessmann_ua.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_471": {
+    "size": 1,
+    "sample_files": [
+      "vitalimages_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_472": {
+    "size": 1,
+    "sample_files": [
+      "vivaconagua_at.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_473": {
+    "size": 1,
+    "sample_files": [
+      "webster_nl.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_474": {
+    "size": 1,
+    "sample_files": [
+      "whirlpool_com_sg.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_475": {
+    "size": 1,
+    "sample_files": [
+      "wordans_de.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_476": {
+    "size": 1,
+    "sample_files": [
+      "wordans_it.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_477": {
+    "size": 1,
+    "sample_files": [
+      "worldoptionsgh_com_au.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_478": {
+    "size": 1,
+    "sample_files": [
+      "worldvision_al.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_479": {
+    "size": 1,
+    "sample_files": [
+      "wuerthmarket_ru.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_480": {
+    "size": 1,
+    "sample_files": [
+      "wurth-int_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_481": {
+    "size": 5,
+    "sample_files": [
+      "wwfcz_org.png",
+      "wwf_ro.png",
+      "wwf_or_th.png"
+    ],
+    "average_similarity": 0.9611547529697418,
+    "min_similarity": 0.9323819279670715
+  },
+  "cluster_482": {
+    "size": 1,
+    "sample_files": [
+      "xwiftracingevents_be.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  },
+  "cluster_483": {
+    "size": 8,
+    "sample_files": [
+      "ymca-cnw_org.png",
+      "ymcawaycross_com.png",
+      "ymcaup_org.png"
+    ],
+    "average_similarity": 0.9518497564962932,
+    "min_similarity": 0.88810133934021
+  },
+  "cluster_484": {
+    "size": 7,
+    "sample_files": [
+      "zalando_at.png",
+      "zalando_pl.png",
+      "zalando_no.png"
+    ],
+    "average_similarity": 1.0000003576278687,
+    "min_similarity": 1.0000003576278687
+  },
+  "cluster_485": {
+    "size": 1,
+    "sample_files": [
+      "zktecoma_com.png"
+    ],
+    "average_similarity": 0.0,
+    "min_similarity": 0.0
+  }
+}
