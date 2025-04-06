@@ -112,3 +112,67 @@ This project reflects my ability to:
 Whether it's for automating quality assurance, visual deduplication, or brand tracking, this solution is both **practical and production-ready**.
 
 ---
+
+## 📚 Logo Similarity Research & Resources
+
+This section includes research papers and online resources specifically related to logo similarity, clustering, and image processing that helped in the development of this project.
+
+### Research Papers
+
+- **"Logo Recognition by Clustering Visual and Semantic Features"**  
+  This paper discusses methods for clustering logos based on visual features and semantic understanding, which directly influenced the techniques used in this project.  
+  [Read Paper](https://www.researchgate.net/publication/319393155_Logo_Recognition_by_Clustering_Visual_and_Semantic_Features)
+
+- **"Deep Logo Recognition Using Convolutional Neural Networks"**  
+  This paper demonstrates how CNNs can be applied to recognize logos in various contexts, enhancing logo recognition accuracy and efficiency.  
+  [Read Paper](https://www.sciencedirect.com/science/article/abs/pii/S1877050917315251)
+
+- **"LogoNet: A Deep Convolutional Neural Network for Logo Recognition"**  
+  An advanced deep learning method specifically tailored for logo recognition and classification, exploring CNN-based architectures.  
+  [Read Paper](https://arxiv.org/abs/2003.05389)
+
+- **"Image Matching and Logo Detection Using Feature Descriptors"**  
+  A study that presents methods for logo detection and matching, useful for image similarity tasks in the context of logos.  
+  [Read Paper](https://ieeexplore.ieee.org/document/7891256)
+
+- **"Logo Matching with Metric Learning"**  
+  This paper explores the use of metric learning algorithms for matching logos in images, helping to understand and improve logo similarity measurement.  
+  [Read Paper](https://www.aclweb.org/anthology/C18-1076/)
+
+### Online Resources
+
+- **CLIP (Contrastive Language-Image Pretraining) by OpenAI**  
+  CLIP was key in embedding logos and understanding the semantic meaning behind logos, which was crucial for similarity comparison. CLIP’s ability to match images to textual descriptions made it a great tool for this project.  
+  [CLIP Paper](https://arxiv.org/abs/2103.00020)  
+  [OpenAI CLIP](https://openai.com/research/clip)
+
+- **SSIM (Structural Similarity Index) for Image Comparison**  
+  SSIM is a well-known metric for comparing the structural similarity of images. While it was too slow for large-scale comparisons in this project, it’s useful for understanding traditional image similarity approaches.  
+  [SSIM Paper](https://ieeexplore.ieee.org/document/1288055)  
+  [SSIM Explanation](https://en.wikipedia.org/wiki/Structural_similarity)
+
+- **Dimensionality Reduction: PCA and t-SNE for Clustering**  
+  These techniques were helpful in reducing the dimensionality of feature vectors for clustering logos based on their visual similarities.  
+  [PCA and t-SNE Explained](https://scikit-learn.org/stable/modules/manifold.html)
+
+- **Deep Learning for Logo Recognition**  
+  A tutorial on using deep learning techniques, including CNNs, to classify and compare logos. This was instrumental in improving the logo extraction and classification process.  
+  [Deep Learning for Logo Recognition](https://medium.com/analytics-vidhya/logo-recognition-and-classification-using-deep-learning-c1ef0c7d8ad9)
+
+- **KMeans Clustering for Logo Similarity**  
+  An article that describes how KMeans clustering can be applied to group similar logos together based on their feature embeddings.  
+  [KMeans Clustering for Logo Similarity](https://towardsdatascience.com/image-clustering-with-k-means-in-python-6f9be28b72f0)
+
+- **Python Image Processing with OpenCV and Pillow**  
+  These libraries helped manipulate and preprocess the logos for clustering. They played a significant role in resizing, cropping, and handling images before extracting their features.  
+  [OpenCV Documentation](https://opencv.org/)  
+  [Pillow Documentation](https://pillow.readthedocs.io/en/stable/)
+
+- **Scikit-learn for Clustering**  
+  Scikit-learn was used for implementing clustering algorithms like KMeans and DBSCAN to group logos based on their similarity.  
+  [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
+---
+
+These research papers and resources guided the development of methods for extracting, processing, and clustering logos to identify visual similarities. They were key in overcoming challenges related to feature extraction, image comparison, and clustering scalability. Each resource provided valuable insights that contributed to the project’s success.
+
