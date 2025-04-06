@@ -65,7 +65,7 @@ This wasn’t just a coding challenge — it was a **deep learning experience** 
 
 ## 🖼️ Example Outputs
 
-| Cluster Samples | Heatmap Visualization | Terminal Output |
+| Cluster Samples | Heatmap Visualization | Logo Clustering |
 |------------------|-----------------------|-----------------|
 | ![clusters](/analysis_results/cluster_samples.png) | ![heatmap](/analysis_results/similarity_heatmap.png) | ![Logo Clustering](./photos_for_git/p4.png) |
 
